@@ -15,6 +15,10 @@
  * findIndex => return only the index of first element that verify the condition
    <br/>
    <img src="/Screenshot%20from%202022-10-10%2017-44-05.png"/>
+   
+  * fill(value,startIndex,endIndex) => fill the array with "value" starting from startIndex ,ending before the index endIndex
+     <img src="/Screenshot%20from%202022-10-10%2017-52-10.png"/>
+
 
 
 
